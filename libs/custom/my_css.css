@@ -138,6 +138,7 @@ img { max-width: 100%; }
   background: var(--chip);
   transition: color 0.15s, border-color 0.15s;
 }
+.soc a i { font-size: 12px; width: 13px; text-align: center; }
 .soc a:hover { color: var(--acc); border-color: var(--acc); }
 
 /* ---------------------------------------------------------------- main -- */
